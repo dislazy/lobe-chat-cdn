@@ -1,0 +1,23 @@
+{
+  "routes": {
+    "rewrites": [
+      {
+        "source": "/api/auth/:path*",
+        "destination": "https://chat.songbo.fun/api/auth/:path*"
+      },
+      {
+        "source": "/api/chat/:path*",
+        "destination": "https://chat.songbo.fun/api/chat/:path*"
+      },
+      {
+        "source": "/model/:path*",
+        "destination": "https://chat.songbo.fun/model/:path*"
+      },
+      {
+        "source": "/v1beta/:path*",
+        "destination": "https://chat.songbo.fun/v1beta/:path*"
+      }
+    ]
+  }
+}
+
