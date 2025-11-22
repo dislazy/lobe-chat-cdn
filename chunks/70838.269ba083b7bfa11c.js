@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[70838],{70838:(e,t,s)=>{s.d(t,{getElectronStoreState:()=>a.R});var a=s(64694)}}]);

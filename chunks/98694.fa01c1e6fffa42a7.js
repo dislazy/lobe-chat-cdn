@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[98694],{98694:(e,l,s)=>{s.r(l),s.d(l,{default:()=>u});var t=s(28802),a=s(58244),d=s(83034),h=s(27697);let p=(0,d.memo)(()=>(0,t.Y)(a.A,{style:{display:"flex",flex:1,height:"100%"},children:(0,t.Y)(h.sv,{})}));p.displayName="DesktopKnowledgeLayout";let u=p}}]);

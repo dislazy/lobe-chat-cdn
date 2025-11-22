@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[70683],{70683:e=>{e.exports=JSON.parse('{"plans":{"plan":{"enterprise":{"title":"企業版"},"free":{"title":"免費版"},"hobby":{"title":"自助版"},"premium":{"title":"進階版"},"starter":{"title":"基礎版"},"ultimate":{"title":"專業版"}}}}')}}]);

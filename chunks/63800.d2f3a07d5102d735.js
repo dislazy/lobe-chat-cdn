@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[63800],{63800:(e,s,c)=>{c.r(s),c.d(s,{ssrfSafeFetch:()=>f});let f=async(e,s)=>fetch(e,s)}}]);
