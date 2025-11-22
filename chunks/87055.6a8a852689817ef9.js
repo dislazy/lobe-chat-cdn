@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[87055],{43262:(e,r,t)=>{t.d(r,{C:()=>a});let a={isSyncActive:e=>e.dataSyncConfig.active,remoteServerUrl:e=>e.dataSyncConfig.remoteServerUrl||"",storageMode:e=>e.dataSyncConfig.storageMode}},87055:(e,r,t)=>{t.d(r,{electronSyncSelectors:()=>a.C});var a=t(43262)}}]);

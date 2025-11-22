@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F[variants]","\u002F[variants]\u002Fnext-auth\u002Ferror","\u002F[variants]\u002Fnext-auth\u002Fsignin","\u002F[variants]\u002Foauth\u002Fcallback\u002Ferror","\u002F[variants]\u002Foauth\u002Fcallback\u002Fsuccess","\u002Fsitemap\u002F[__metadata_id__]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

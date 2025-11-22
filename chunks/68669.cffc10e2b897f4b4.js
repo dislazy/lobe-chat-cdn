@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[68669],{68669:(e,i,s)=>{s.r(i),s.d(i,{default:()=>r});var t=s(80286);let c={};t.LOBE_DEFAULT_MODEL_LIST.forEach(e=>{e.description&&(c[e.id]={description:e.description})});let r=c}}]);

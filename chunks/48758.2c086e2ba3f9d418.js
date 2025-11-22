@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[48758],{48758:e=>{e.exports=JSON.parse('{"actions":{"confirmRemoveThread":"即将删除该子话题，删除后将不可恢复，请谨慎操作。"},"newPortalThread":{"includeContext":"包含话题上下文","title":"开启新的子话题"},"notSupportMultiModals":"子话题暂不支持文件/图片上传，如有需求，欢迎留言：<1>\uD83D\uDCAC 讨论区</1>"}')}}]);

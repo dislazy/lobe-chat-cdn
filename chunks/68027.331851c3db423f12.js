@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[68027],{68027:(e,s,o)=>{o.d(s,{electronDevtoolsService:()=>l});var t=o(14343);class c{async openDevtools(){return(0,t.dispatch)("openDevtools")}}let l=new c}}]);

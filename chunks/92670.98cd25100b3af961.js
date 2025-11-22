@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[92670],{92670:e=>{e.exports=JSON.parse('{"plans":{"plan":{"enterprise":{"title":"نسخه سازمانی"},"free":{"title":"نسخه رایگان"},"hobby":{"title":"نسخه خودکار"},"premium":{"title":"نسخه پیشرفته"},"starter":{"title":"نسخه پایه"},"ultimate":{"title":"نسخه حرفه‌ای"}}}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[58020],{58020:e=>{e.exports=JSON.parse('{"plans":{"plan":{"enterprise":{"title":"Versione enterprise"},"free":{"title":"Versione gratuita"},"hobby":{"title":"Versione autonoma"},"premium":{"title":"Premium"},"starter":{"title":"Versione base"},"ultimate":{"title":"Ultimate"}}}}')}}]);

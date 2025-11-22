@@ -1,9 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[14343],{14343:(e,r,n)=>{n.d(r,{e2:()=>c,dispatch:()=>o,$l:()=>i,A8:()=>l});let o=async(e,...r)=>{if(!window.electronAPI||!window.electronAPI.invoke)throw Error(`electronAPI.invoke not found. Please expose \`ipcRenderer.invoke\` to \`window.electronAPI.invoke\` in the preload:
-
-import { contextBridge, ipcRenderer } from 'electron';
-
-const invoke = async (event, ...data) =>
-  ipcRenderer.invoke(event, ...data);
-
-contextBridge.exposeInMainWorld('electronAPI', { invoke });
-`);return window.electronAPI.invoke(e,...r)},t=async e=>{if(e){if("string"==typeof e||e instanceof ArrayBuffer)return e;if(ArrayBuffer.isView(e))return e.buffer.slice(e.byteOffset,e.byteOffset+e.byteLength);if(e instanceof Blob)return await e.arrayBuffer();throw console.warn("不支持的 IPC 代理请求体类型:",typeof e),Error("不支持的 IPC 代理请求体类型")}},i=async(e,r)=>{var n;let o,i=new URL(e.toString(),window.location.origin),a=i.pathname+i.search,c=r?.method?.toUpperCase()||"GET",s=(n=r?.headers,o={},n&&(n instanceof Headers?n.forEach((e,r)=>{o[r]=e}):Array.isArray(n)?n.forEach(([e,r])=>{o[e]=r}):Object.assign(o,n),delete o.host,delete o.connection,delete o["content-length"]),o),l={body:await t(r?.body),headers:s,method:c,urlPath:a};return new Promise((e,r)=>{let n,o=!1,t=new ReadableStream({cancel(){i?.()},start(e){n=e}}),i=window.electronAPI.onStreamInvoke(l,{onData:e=>{n&&n.enqueue(e)},onEnd:()=>{n&&n.close()},onError:e=>{console.error("[streamInvoke] Error during IPC stream proxy call:",e),o?n&&n.error(e):(o=!0,r(e))},onResponse:r=>{o||(o=!0,e(new Response(t,r)))}})})};var a,c=((a={}).Cloud="cloud",a.Local="local",a.SelfHost="selfHost",a),s=n(83034);let l=(e,r)=>{(0,s.useEffect)(()=>{if(!window.electron)return;let n=(e,n)=>{r(n)};return window.electron.ipcRenderer.on(e,n),()=>{window.electron.ipcRenderer.removeListener(e,n)}},[])}}}]);

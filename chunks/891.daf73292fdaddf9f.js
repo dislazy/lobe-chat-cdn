@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[891],{891:(e,l,n)=>{n.r(l),n.d(l,{default:()=>o});var a=n(28802);let i=(0,n(83034).memo)(()=>(0,a.Y)("div",{children:(0,a.Y)("h2",{children:"Coming Soon!"})}));i.displayName="ComingSoonPage";let o=i}}]);

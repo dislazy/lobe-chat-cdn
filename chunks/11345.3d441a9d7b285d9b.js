@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[11345],{11345:(e,s,r)=>{r.d(s,{e:()=>k});var c=r(38858);let k=()=>{let[e]=(0,c.ZA)("showMobileWorkspace",c.cr);return e}}}]);

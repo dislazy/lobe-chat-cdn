@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[46784],{46784:(i,s,n)=>{n.d(s,{desktopNotificationService:()=>a});var e=n(14343);class t{async showNotification(i){return(0,e.dispatch)("showDesktopNotification",i)}async isMainWindowHidden(){return(0,e.dispatch)("isMainWindowHidden")}}let a=new t}}]);
